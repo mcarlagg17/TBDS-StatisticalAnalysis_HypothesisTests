@@ -1,5 +1,7 @@
 # Análisis estadístico y Test de Hipótesis
 
+![img_inicial](img/imges4.jpg.webp)
+
 Este repositorio contiene una serie de **notebooks en Python** que muestran cómo realizar análisis estadísticos y test de hipótesis con diferentes conjuntos de datos. 
 
 Los métodos y técnicas utilizados se basan en los principios de inferencia estadística y se aplican a problemas comunes en distintos campos.
