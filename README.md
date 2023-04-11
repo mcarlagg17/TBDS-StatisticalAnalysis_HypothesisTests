@@ -19,11 +19,11 @@ Se pretende aportar una visión del **procedimiento para abordar un análisis es
 
 - `notebooks`:
 
-    - ***1_Prueba-Hipótesis***: guía del procedimiento estadístico (*se recomienda seguir el estudio desde este archivo*)
+    - ***`1_Prueba-Hipótesis`***: guía del procedimiento estadístico (*se recomienda seguir el estudio desde este archivo*)
 
-    - ***2_Verificaciones-muestra***: conjunto de verificaciones y comprobaciones a realizar al conjunto de datos, normalmente previo al contraste de hipótesis
+    - ***`2_Verificaciones-muestra`***: conjunto de verificaciones y comprobaciones a realizar al conjunto de datos, normalmente previo al contraste de hipótesis
 
-    - ***3_Test-parametricos***: explicación y ejemplos de test paramétricos más comunes
+    - ***`3_Test-parametricos`***: explicación y ejemplos de test paramétricos más comunes
 
-    - ***4_Test-no-parametricos***: explicación y ejemplos de test no paramétricos más comunes
+    - ***`4_Test-no-parametricos`***: explicación y ejemplos de test no paramétricos más comunes
 
