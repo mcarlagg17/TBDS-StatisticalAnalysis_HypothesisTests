@@ -2,7 +2,12 @@
 ## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
+<<<<<<< HEAD
 ## Dependency directory cc
+=======
+## Dependency directory
+## esta linea se creó en otra+
+>>>>>>> 685826a7938348b0606a946264ce5f0e43523288
 ## Commenting this out is preferred by some people, see
 ## https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git
 node_modules
