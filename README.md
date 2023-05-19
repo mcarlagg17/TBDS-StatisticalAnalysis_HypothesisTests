@@ -1,4 +1,4 @@
-# Análisis estadístico y Test de Hipótesis.
+# Análisis estadístico y Test de Hipótesis..
 
 ![img_inicial](img/imges4.jpg.webp)
 
